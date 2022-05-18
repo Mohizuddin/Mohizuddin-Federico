@@ -27,3 +27,8 @@ body{
     margin: 0 auto;
     background-color: #eee;
 }
+
+.image1{
+  width 300px ;
+  object-fit: contain;
+}
