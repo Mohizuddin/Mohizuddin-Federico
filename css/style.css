@@ -30,6 +30,12 @@ h1{
 
 h2{
     font-size: 2rem;
+    line-height: 1.5;
+    padding: 2rem;
+}
+
+h3{
+    font-size: 2rem;
     padding: 5rem;
 }
 
@@ -44,7 +50,7 @@ p{
     width: 100%;
     margin: 0 auto;
     background-color: #eee;
-    padding-bottom: 5rem;
+    padding-bottom: 2rem;
 }
 
 
@@ -59,7 +65,7 @@ p{
 }
 
 .dr-info{
-    width: 40%;
+    width: 45%;
     margin: 0 auto;
 }
 
@@ -68,8 +74,19 @@ p{
 }
 
 ul li{
-    font-size: 1.4rem;
+    font-size: 1.6rem;
     font-weight: 500;
     line-height: 1.5;
     padding: 0.8rem;
+}
+
+ul blockquote{
+    margin: 5rem 0rem 1.5rem 0rem;
+    font-size: 1.8rem;
+    font-style: italic;
+}
+
+figcaption{
+    font-size: 1.6rem;
+    padding-bottom: 5rem;
 }
